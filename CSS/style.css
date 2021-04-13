@@ -4,3 +4,7 @@
 .carousel-caption {
   color: black;
 }
+.figure > img {
+  width: 30vw;
+  height: 50vh;
+}
