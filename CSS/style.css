@@ -5,6 +5,8 @@
 .carousel-caption > h5 {
   color: blue;
   font-weight: bold;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
 .col > img {
   width: 30vw;
