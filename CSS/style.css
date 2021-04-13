@@ -1,10 +1,12 @@
 .carousel-item > img {
   height: 50vh;
 }
-.carousel-caption {
-  color: black;
+.carousel-caption > p,
+.carousel-caption > h5 {
+  color: blue;
+  font-weight: bold;
 }
-.figure > img {
+.jumbotron > img {
   width: 30vw;
   height: 50vh;
 }
