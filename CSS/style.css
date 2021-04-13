@@ -6,7 +6,7 @@
   color: blue;
   font-weight: bold;
 }
-.jumbotron > img {
+.col-sm > img {
   width: 30vw;
   height: 50vh;
 }
